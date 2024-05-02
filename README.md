@@ -8,7 +8,7 @@ To run this project in development mode, you'll need to follow these steps:
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/JoelOWR/tech-dash-2.0
+    git clone https://github.com/jcworkport/tech-dash
     ```
 
 2. **Navigate into the Project Directory**: 
