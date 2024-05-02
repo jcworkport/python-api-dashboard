@@ -33,7 +33,7 @@ def update_dynamic_content(n):
                 style={"display": "flex", "flex-direction": "column"}, children=[ 
                 html.Div([
                     html.Div([
-                        html.Img(src=app.get_asset_url('logo.svg'),
+                        html.Img(src=app.get_asset_url('logo.svg'), #removed logo
                                  id='logo-image',
                                  style={
                                      "height": "60px",
