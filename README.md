@@ -1,6 +1,6 @@
-# Tech Dash 2.0
+# Tech Dash
 
-Welcome to **Tech Dash 2.0**! This dashboard tracks technician's scan data activity.
+Welcome to **Tech Dash**! This dashboard tracks technician's scan data activity.
 
 ## Running the Project Locally
 
@@ -8,7 +8,7 @@ To run this project in development mode, you'll need to follow these steps:
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/JoelOWR/tech-dash-2.0
+    git clone https://github.com/jcworkport/tech-dash
     ```
 
 2. **Navigate into the Project Directory**: 
