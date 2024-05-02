@@ -1,6 +1,6 @@
-# Tech Dash 2.0
+# Tech Dash
 
-Welcome to **Tech Dash 2.0**! This dashboard tracks technician's scan data activity.
+Welcome to **Tech Dash**! This dashboard tracks technician's scan data activity.
 
 ## Running the Project Locally
 
