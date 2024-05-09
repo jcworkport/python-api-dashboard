@@ -1,6 +1,8 @@
 # Tech Dash
 
-Welcome to **Tech Dash**! This dashboard tracks technician's scan data activity.
+Welcome to **Tech Dash**!
+
+This is a Python web dashboard that updates every minute, gathering data from a WMS API. It's made user-friendly with Dash after cleaning the data with Pandas. I created it independently while working as an IT Specialist, managing department operations. Despite being new to Python and API integration, I finished it in under a month. Some parts of the code were adjusted/removed for privacy and security reasons.
 
 ![Image](https://github.com/jcworkport/python-api-dashboard/raw/main/tech-dash.jpg)
 
