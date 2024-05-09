@@ -2,13 +2,15 @@
 
 Welcome to **Tech Dash**! This dashboard tracks technician's scan data activity.
 
+![Image](https://github.com/jcworkport/python-api-dashboard/raw/main/tech-dash.jpg)
+
 ## Running the Project Locally
 
 To run this project in development mode, you'll need to follow these steps:
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/jcworkport/tech-dash
+    git clone https://github.com/jcworkport/python-api-dashboard
     ```
 
 2. **Navigate into the Project Directory**: 
