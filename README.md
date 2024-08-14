@@ -1,8 +1,8 @@
-# Tech Dash
+<h1 align="center"># Tech Dash</h1>
 
-Welcome to **Tech Dash**!
+<p align="center">Welcome to **Tech Dash**!</p>
 
-This is a Python web dashboard that updates every minute, gathering data from a WMS API. It's made user-friendly with Dash after cleaning the data with Pandas. I created it independently while working as an IT Specialist, managing department operations. Despite being new to Python and API integration, I finished it in under a month. Some parts of the code were adjusted/removed for privacy and security reasons.
+<p align="center">This project is not PLUG AND PLAY, information has been REDACTED for the security of the company (eg. API,database connections...) !</p>
 
 ![Image](https://github.com/jcworkport/python-api-dashboard/raw/main/pythondashboard.jpg)
 
