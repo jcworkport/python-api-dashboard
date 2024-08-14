@@ -1,6 +1,6 @@
 <h1 align="center">Tech Dash</h1>
 
-<p align="center">Welcome to **Tech Dash**!</p>
+<p align="center">Welcome to Tech Dash!</p>
 
 <p align="center">This project is not PLUG AND PLAY, information has been REDACTED for the security of the company (eg. API,database connections...) !</p>
 
